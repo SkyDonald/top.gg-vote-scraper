@@ -1,5 +1,5 @@
 {
-  "name": "easy-dbl-vote",
+  "name": "top.gg-vote-scraper",
   "version": "1.0.0",
   "description": "An easy package to get your bot vote on top.gg",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyDonald/easy-dbl-vote.git"
+    "url": "git+https://github.com/SkyDonald/top.gg-vote-scraper.git"
   },
   "keywords": [
     "dbl",
@@ -21,9 +21,9 @@
   "author": "skydonald",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SkyDonald/easy-dbl-vote/issues"
+    "url": "https://github.com/SkyDonald/top.gg-vote-scraper/issues"
   },
-  "homepage": "https://github.com/SkyDonald/easy-dbl-vote#readme",
+  "homepage": "https://github.com/SkyDonald/top.gg-vote-scraper#readme",
   "dependencies": {
     "dblapi.js": "^2.4.1",
     "discord.js": "^12.5.1",
