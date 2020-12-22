@@ -4,3 +4,5 @@ DBLToken=YOURDBLTOKEN
 webhookPassword=YOURWEBHOOKPASSWORD
 #https://discord.com/developers/applications/YOURBOTID/bot
 discordToken=YOURDISCORDBOTTOKEN
+#Your port which is open
+port=3000
