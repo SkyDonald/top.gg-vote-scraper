@@ -1,0 +1,36 @@
+{
+  "name": "easy-dbl-vote",
+  "version": "1.0.0",
+  "description": "An easy package to get your bot vote on top.gg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyDonald/easy-dbl-vote.git"
+  },
+  "keywords": [
+    "dbl",
+    "topgg",
+    "top.gg",
+    "vote",
+    "webhook",
+    "api"
+  ],
+  "author": "skydonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyDonald/easy-dbl-vote/issues"
+  },
+  "homepage": "https://github.com/SkyDonald/easy-dbl-vote#readme",
+  "dependencies": {
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {
+    "semistandard": "^16.0.0"
+  }
+}
