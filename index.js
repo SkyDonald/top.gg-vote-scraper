@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   res.sendStatus(200);
 });
 
-const listener = server.listen(3000, function () {
+const listener = server.listen(process.env.port, function () {
   console.log('App is ready');
 });
 
